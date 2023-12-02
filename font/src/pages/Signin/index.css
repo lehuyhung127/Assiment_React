@@ -1,0 +1,89 @@
+.box-register,
+.box-login {
+    background-image: url(https://bizweb.dktcdn.net/100/438/408/themes/919724/assets/bg_login.jpg?1697695365803);
+    background-size: 100%;
+    padding: 20px 0;
+}
+
+.form-content {
+    background-color: #fff;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.form-content span {
+    color: #595959;
+    font-size: 16px;
+}
+
+.fill-in {
+    margin: 50px 0;
+}
+
+.fill-in .text-blue {
+    color: #151560 !important;
+    font-weight: 700;
+    font-size: 26px;
+    font-family: myfont2;
+    font-weight: bold;
+}
+
+.fill-in .text-blue .text-yellow {
+    color: #fcaf17 !important;
+    font-weight: 700;
+    font-size: 26px;
+    font-family: myfont2;
+    font-weight: bold;
+}
+
+.fill-in {
+    display: flex;
+    flex-direction: column;
+}
+
+.fill-in form {
+    margin-top: 15px;
+}
+
+.fill-in form input {
+    margin: 10px auto;
+    padding: 15px 0 15px 10px;
+    width: 400px;
+    border: 1px solid #EAEBF3;
+    border-radius: 3px;
+}
+
+.fill-in form input:focus {
+    outline-color: #8C8C8C;
+}
+
+.fill-in form button {
+    margin: 10px auto;
+    padding: 15px 0 15px 10px;
+    width: 400px;
+    color: #fff;
+    background-color: #fcaf17;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.acc-login span {
+    color: #595959;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.acc-login a {
+    color: #fcaf17;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.acc-login a:hover {
+    text-decoration: underline;
+}
